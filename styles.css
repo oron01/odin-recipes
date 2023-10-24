@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://i.guim.co.uk/img/media/cf19bda612430e6ff33122df8cec403700a38403/794_471_907_544/500.jpg?quality=85&auto=format&fit=max&s=9f3a32b8c2fd3cad2231cc164080ee5a);
+text-align: center;}
+
+ul * {
+    list-style-type: none;
+    text-align: center;
+
+}
+
+a {
+    color: green;
+    text-decoration: none;    
+}
+
+a:hover {
+    color: gold;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+ul {
+    padding: 0px;
+
+}
+
+body > div {
+    display: inline-block;
+    background-color: black;
+}
+
+h1 {
+    color: green;
+}
