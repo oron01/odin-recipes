@@ -34,3 +34,7 @@ body > div {
 h1 {
     color: green;
 }
+
+select {
+    margin: -6px 0px 16px 0px;
+}
